@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRINCE PATEL</h1>
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning python and python's libraries
 
 - 📫 How to reach me **prince1509patel@gmail.com**
 

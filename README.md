@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm PRINCE PATEL</h1>
-- 🌱 I’m currently learning python and python's libraries
+- 🌱 I’m currently learning machine learning
 
 - 👀 I’m interested in learning Artificial Intelligence, Machine Learning, Natural Language Processing
 

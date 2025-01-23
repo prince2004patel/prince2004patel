@@ -57,14 +57,22 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince2004patel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<h3 align="center">GitHub Stats:</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prince2004patel&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince2004patel&" alt="GitHub Streak" />
-</p>
+<div align="center" style="background-color: #1E1E1E; padding: 15px; border-radius: 10px;">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=prince2004patel&show_icons=true&locale=en" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince2004patel&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince2004patel&" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>

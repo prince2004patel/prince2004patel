@@ -8,11 +8,11 @@
 
 <h3 align="center">Check Out My Works:</h3>
 
-- 🚗 **<a href="https://car-price-prediction-frontend.onrender.com/" target="_blank">Used Car Price Prediction</a>:** A machine learning project that predicts car prices based on features like brand, model, and more.  
-- 📊 **<a href="https://sentiment-spam-detection-by-prince.streamlit.app/" target="_blank">Sentiment and Spam Classification</a>:** A web application for classifying text as sentiment or spam using NLP and machine learning.  
-- 💡 **<a href="https://customer-churn-ann-classification-by-prince.streamlit.app/" target="_blank">Customer Churn Prediction</a>:** A deep learning project using Artificial Neural Networks (ANN) to predict customer churn.
-- 🔗 **<a href="https://github.com/prince2004patel/Neural_Network_from_Scratch/" target="_blank"> Neural Network from Scratch </a>:** I build and tarin a Neural Network from scratch using Python and Numpy, without relying on high-level libraries.
-  
+- 🚗 **[Used Car Price Prediction](https://car-price-prediction-frontend.onrender.com/):** A machine learning project that predicts car prices based on features like brand, model, and more.  
+- 🏥 **[Doctor Appointment System](https://github.com/ParamPS25/DoctorAppointmentSystem):** A team project where I contributed to the disease prediction module using machine learning.  
+- 🔮 **[Next Word Prediction](https://next-word-prediction-by-prince.streamlit.app/):** A web application for next-word prediction using LSTM and attention mechanisms, trained on a Shakespeare's Hamlet dataset.  
+- 🔗 **[Neural Network from Scratch](https://github.com/prince2004patel/Neural_Network_from_Scratch/):** I built and trained a neural network from scratch using Python and NumPy, without relying on high-level libraries.  
+
 - 🔧 **And many more...**
 
 ---

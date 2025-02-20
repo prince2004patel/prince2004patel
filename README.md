@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PRINCE PATEL</h1>
 
 🌱 I’m currently learning **Machine Learning**  
-👀 I’m interested in **Artificial Intelligence, Machine Learning, and Natural Language Processing**  
+👀 I’m interested in **AI , GenAI and LLMs**  
 📫 Reach me at: **prince1509patel@gmail.com**
 
 ---

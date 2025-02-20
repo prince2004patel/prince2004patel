@@ -9,7 +9,7 @@
 <h3 align="center">Check Out My Works:</h3>
 
 - 🚗 **[Used Car Price Prediction](https://car-price-prediction-frontend.onrender.com/):** A machine learning project that predicts car prices based on features like brand, model, and more.  
-- 🏥 **[Doctor Appointment System](https://github.com/ParamPS25/DoctorAppointmentSystem):** A team project where I contributed to the disease prediction module using machine learning.  
+- 🏥 **[Doctor Appointment System](https://bookmydoc-five.vercel.app/):** A team project where I contributed to the disease prediction module using machine learning.  
 - 🔮 **[Next Word Prediction](https://next-word-prediction-by-prince.streamlit.app/):** A web application for next-word prediction using LSTM and attention mechanisms, trained on a Shakespeare's Hamlet dataset.  
 - 🔗 **[Neural Network from Scratch](https://github.com/prince2004patel/Neural_Network_from_Scratch/):** I built and trained a neural network from scratch using Python and NumPy, without relying on high-level libraries.  
 

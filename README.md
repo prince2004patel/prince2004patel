@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prince Patel</h1>
-
 <p align="center">
-  🚀 <b>From ideas to AI-powered solutions through passion and perseverance.</b><br>
-  🤖 Passionate about <b>AI, Generative AI, and Large Language Models (LLMs)</b><br>
-  📚 Exploring <b>Machine Learning, Deep Learning</b>
+  <img src="me.png" alt="Prince Patel Banner" width="930" height="430">
 </p>
 
 ---

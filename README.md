@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Prince Patel</h1>
+
 <p align="center">
   🚀 <b>From ideas to AI-powered solutions through passion and perseverance.</b><br>
   🤖 Passionate about <b>AI, Generative AI, and Large Language Models (LLMs)</b><br>
   📚 Exploring <b>Machine Learning, Deep Learning</b>
 </p>
 
-
 ---
 
 <h3 align="center">🚀 Check Out My Works:</h3>
 
-- 🚗 **[Car Price Prediction](https://github.com/prince2004patel/Car_Price_Prediction):**  
+- 🚗 **[Car Price Prediction](https://github.com/prince2004patel/Car_Price_Prediction)**  
   A complete machine learning project that predicts car prices based on brand, model, year, mileage, and other key features.  
 
-- 🏥 **[Doctor Appointment System](https://github.com/prince2004patel/DoctorAppointmentSystem):**  
+- 🏥 **[Doctor Appointment System](https://github.com/prince2004patel/DoctorAppointmentSystem)**  
   BookMyDoc is a web-based doctor appointment system designed to streamline medical consultation scheduling. It allows patients to book appointments with doctors, receive updates, and leverage machine learning for disease prediction based on symptoms. 
 
-- 💬 **[Chat with SQL](https://github.com/prince2004patel/chat-with-sql-db):**  
+- 💬 **[Chat with SQL](https://github.com/prince2004patel/chat-with-sql-db)**  
   An AI-powered project that enables users to interact with SQL databases through natural language queries with ease.  
 
-- 🔮 **[FutureForge](https://github.com/FutureForgeOrg/FutureForge):**  
+- 🔮 **[FutureForge](https://github.com/FutureForgeOrg/FutureForge)**  
   FutureForge is a full-stack career improvement platform that simplifies job searching by integrating smart job matching, customizable portfolio creation, professional resume building, AI Interviewer in one unified solution.
 
 - 🔧 **And many more exciting projects...**
@@ -28,21 +28,22 @@
 
 <h3 align="center">📬 Connect with Me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/prince-patel-347537250/" target="blank">
+  <a href="https://www.linkedin.com/in/prince-patel-347537250/" target="_blank" style="margin-right:25px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  <a href="mailto:prince1509patel@gmail.com" target="blank">
+  </a> 
+  <a href="mailto:prince1509patel@gmail.com" target="_blank" style="margin-right:25px;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
   </a>
-  <a href="https://www.instagram.com/prince2004patel/" target="blank">
+  <a href="https://www.instagram.com/prince2004patel/" target="_blank" style="margin-right:25px;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" width="40" />
   </a>
-  <a href="https://princeportfolio-rouge.vercel.app/" target="blank">
+  <a href="https://princeportfolio-rouge.vercel.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" height="40" width="40" />
   </a>
 </p>
 
 ---
+
 <h3 align="center">🛠️ Languages & Tools</h3>
 <p align="center">
 
@@ -102,7 +103,6 @@
   </a>
 
 </p>
-
 
 ---
 

@@ -4,6 +4,12 @@
 
 ---
 
+👋 **Hi there!** I’m Prince Patel, a 4th-year Computer Engineering student passionate about **Machine Learning, Deep Learning, and Generative AI**. I love building intelligent systems that turn data into meaningful insights and learning through hands-on projects.
+
+🎉 **Fun Fact:** I was born on **National Engineer’s Day** — so maybe engineering was meant to be for me 😄
+
+---
+
 <h3 align="center">🚀 Check Out My Works:</h3>
 
 - 🚗 **[Car Price Prediction](https://github.com/prince2004patel/Car_Price_Prediction)**  
@@ -105,19 +111,26 @@
 <h3 align="center">📊 GitHub Stats:</h3>
 
 <div align="center">
+
   <table>
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=prince2004patel&show_icons=true&theme=radical" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prince2004patel&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince2004patel&theme=radical" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince2004patel&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
   </table>
+
+  <!-- Commented out for now (Streak + Graph)
+  <br/>
+
+  <img src="https://streak-stats.demolab.com?user=prince2004patel&theme=radical" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prince2004patel&theme=react-dark&area=true&custom_title=Prince's%20GitHub%20Journey%20🚀%20(Since%20Joining)" alt="GitHub Activity Graph" />
+  -->
+
 </div>

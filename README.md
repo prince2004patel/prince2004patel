@@ -21,7 +21,10 @@ I love transforming data into meaningful insights through hands-on projects and 
   BookMyDoc is a web-based doctor appointment system designed to streamline medical consultation scheduling. It allows patients to book appointments with doctors, receive updates, and leverage machine learning for disease prediction based on symptoms. 
 
 - 💬 **[Chat with SQL](https://github.com/prince2004patel/chat-with-sql-db)**  
-  An AI-powered project that enables users to interact with SQL databases through natural language queries with ease.  
+  An AI-powered project that enables users to interact with SQL databases through natural language queries with ease.
+
+- 🎓 **[ITI Student Dropout Dataset](https://www.kaggle.com/datasets/prince2004patel/iti-student-dropout-synthetic-dataset)**  
+  A high-quality dataset for predicting student dropouts using socioeconomic, academic, and behavioral indicators. Ideal for classification, EDA, and educational analytics research.
 
 - 🔮 **[FutureForge](https://github.com/FutureForgeOrg/FutureForge)**  
   FutureForge is a full-stack career improvement platform that simplifies job searching by integrating smart job matching, customizable portfolio creation, professional resume building, AI Interviewer in one unified solution.

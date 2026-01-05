@@ -8,8 +8,6 @@ Hi there! 👋
 I'm **Prince Patel**, a 4th-year **Computer Engineering** student passionate about **Machine Learning**, **Deep Learning**, and **Generative AI**.  
 I love transforming data into meaningful insights through hands-on projects and continuous learning.
 
-🎓 Fun fact: I was born on **National Engineer’s Day** — maybe engineering was destined for me!
-
 ---
 
 <h3 align="center">🚀 Check Out My Works:</h3>

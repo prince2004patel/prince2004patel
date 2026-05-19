@@ -107,50 +107,27 @@ I love transforming data into meaningful insights through hands-on projects and 
 </p>
 
 ---
-
 <h3 align="center">📊 GitHub Stats</h3>
 
-<div align="center">
-
-  <!-- GitHub Stats Card -->
+<p align="center">
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=prince2004patel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    alt="Prince Patel's GitHub Stats"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=prince2004patel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    height="180"
+    alt="GitHub Stats"
   />
-
-  <!-- Top Languages Card -->
   <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince2004patel&layout=compact&theme=radical&langs_count=8"
-    alt="Prince Patel's Top Languages"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince2004patel&layout=compact&theme=radical&langs_count=8"
+    height="180"
+    alt="Top Languages"
   />
+</p>
 
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- GitHub Streak Stats -->
+<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=prince2004patel&theme=radical"
-    alt="Prince Patel's GitHub Streak"
+    alt="GitHub Streak"
   />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-  <!-- Activity Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=prince2004patel&theme=react-dark&area=true&hide_border=true&custom_title=Prince%20Patel's%20GitHub%20Activity%20Graph"
-    alt="Prince Patel's GitHub Activity Graph"
-  />
-
-</div>
+</p>
 
   <!-- Commented out for now (Streak + Graph)
   <br/>
